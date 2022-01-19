@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document for the Springfield Garden Expo webpage */
+
+h1 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 50px;
+	font-weight: bolder;
+	color: #963FB0;
+}
+
+#heading {
+	background-color: #963FB0;
+}
+
+h1#heading {
+	color: #CCFC74;
+}
+
+
+h2 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #963FB0;
+	margin: 25px;
+}
+
+h3 {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #CCFC74;
+}
+
+p {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+ul {
+	line-height: 3;
+	list-style-type: none;
+	
+}
+
+li {
+	margin-bottom: 2px;	
+}
+
+ul em {
+	margin-left: 35px;
+}
+
+a:link {
+	color: #963FB0;
+}
+
+a:visited {
+	color: #963FB0;
+}
+
+a:hover {
+	background-color: #CCFC74;
+	color: #DD74FD;
+}
+
+a:active {
+	background-color: #CCFC74;
+	color: #DD74FD;
+	border-color: #DD74FD;
+	border-width: 3px;
+	border: solid;
+}
+
+#footer{
+	background-color: #963FB0;
+	color: #CCFC74;	
+}
+
+
+h3#footer {
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #CCFC74;
+}
+
+a:link#footernav, a:link#footernav2, a:link#footernav3, a:link#footernav4 {
+	color: #CCFC74;
+}
+
+a:visited#footernav, a:visited#footernav2, a:visited#footernav3, a:visited#footernav4 {
+	color: #CCFC74;
+}
+
+a:hover#footernav, a:hover#footernav2, a:hover#footernav3, a:hover#footernav4 {
+	color: #CCFC74;
+	background-color: #963FB0;
+}
+
+a:active#footernav, a:active#footernav2, a:active#footernav3, a:active#footernav4 {
+	color: #CCFC74;
+}
+
+hr {
+	color: #CCFC74;
+}
+
+p#copyright{
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #CCFC74;
+}
